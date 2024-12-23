@@ -122,9 +122,7 @@
 
 ###
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
   <a href="https://github.com/LordVillain/Complex-tic-tac-toe" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LordVillain&repo=Complex-tic-tac-      
     toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
@@ -141,7 +139,7 @@
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/? 
       username=LordVillain&repo=Calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-</div>
+</div> -->
 
 ###
 

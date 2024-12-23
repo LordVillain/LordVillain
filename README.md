@@ -96,7 +96,7 @@
     </a>
     <!-- Django Icon -->
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
+        <img src="https://img.icons8.com/?size=100&id=IuuVVwsdTi2v&format=png&color=000000" width="36" height="36" alt="Django" />
     </a>
     <!-- Docker Icon -->
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">

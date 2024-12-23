@@ -46,7 +46,7 @@
     </a>
     <!-- C++ Icon -->
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+        <img src="https://github.com/user-attachments/assets/68eda2b5-8a22-4c85-b604-706b1f71ad6a" width="36" height="36" alt="C++" />
     </a>
     <!-- Java Icon -->
     <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">

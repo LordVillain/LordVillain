@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Daniil</h1>
+<h1 align="center">Hi 👋, I'm Dany</h1>
 
 ###
 
@@ -18,14 +18,16 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me</h3>
 
 ###
 
 <p align="left">Я начинающий Backend разработчик. Мой путь в IT начался в университете БГУ, где я начал учить программирование серьезно. 
 <br>- 🔭 Участвовал в 
 <br>- 📚 Завершил курсы по 
-<br>- ⚡ Являюсь студентом 2 курса БГУ</p>
+<br>- ⚡ Являюсь студентом 2 курса БГУ
+<br>- 📄 Know about my experiences [resume link](resume link)
+</p>
 
 ###
 
@@ -75,7 +77,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 
 ###
 
@@ -120,7 +122,21 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<b>Top Repositories</b>
+
+<div width="100%" align="center">
+  <a href="https://github.com/LordVillain/Complex-tic-tac-toe" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LordVillain&repo=Complex-tic-tac-      
+    toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/LordVillain/Project_FiLLWords" align="right"><img align="right"   
+    width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LordVillain&repo=Project_FiLLWords&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
+  </a>
+</div><br /><br /><br /><br /><br /><br /><br />
+
+###
+
+<h3 align="left">🔥  My statistic:</h3>
 
 ###
 

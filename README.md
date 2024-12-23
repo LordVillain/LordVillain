@@ -116,7 +116,7 @@
     </a>
     <!-- VS Code Icon -->
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.ru%2Ficons%2Fset%2Fvs-code&psig=AOvVaw16iD-cVcv2OagTHuWrAaaB&ust=1735056568032000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDmi9WjvooDFQAAAAAdAAAAABAE" width="36" height="36" alt="VS Code" />
     </a>
 <div>
 

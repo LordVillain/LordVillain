@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47tbfsjf1y456ruc57pakofip6lzn7dzcnjeo0rezd&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <img height="300" width="600" src="https://media1.tenor.com/m/EyASgyJCDfEAAAAd/hello-world-animation.gif"  />
 </div>
 
 ###

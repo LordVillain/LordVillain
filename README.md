@@ -154,7 +154,7 @@
 
 ## Организации
 
-[![ShopOnGO](https://github.com/ShopOnGO.png?size=10)](https://github.com/ShopOnGO)
+[![ShopOnGO](https://github.com/ShopOnGO.png?size=1)](https://github.com/ShopOnGO)
 
 </div>
 

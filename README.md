@@ -152,6 +152,10 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LordVillain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&cache_seconds=1800" height="150" alt="languages graph" />
 
+## Организации
+
+[![ShopOnGO](https://github.com/ShopOnGO.png?size=50)](https://github.com/ShopOnGO)
+
 </div>
 
 ###

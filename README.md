@@ -22,17 +22,13 @@
 
 ###
 
-<blockquote>
-  <p align="left">
-    <strong>🎓 I'm a 2nd-year BSU student and an aspiring backend developer. My primary focus is building web applications in Go.</strong>
-  </p>
-</blockquote>
+<h4 align="left">🎓 I'm a 2nd-year BSU student and an aspiring backend developer. My primary focus is building web applications in Go.</h4>
 
-- 🔭 Currently working on my project on [ShopOnGO](https://github.com/ShopOnGO/ShopOnGO)
-- 📚 Completed courses:
+<h3 align="left">- 🔭 Currently working on my project on <a href="https://github.com/ShopOnGO/ShopOnGO">ShopOnGO</a></h3>
+<h3 align="left">- 📚 Completed courses:</h3>
   - **Advanced Golang** — [Purple School](https://purpleschool.ru/course/go-advanced)
   - **Development of Web Applications in Go** — [Udemy](https://www.udemy.com/course/golang-ninja/)
-- ⚡ Participated in ICPC
+<h3 align="left">-⚡ Participated in ICPC</h3>
 
 ###
 

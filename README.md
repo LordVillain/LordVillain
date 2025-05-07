@@ -22,10 +22,12 @@
 
 ###
 
-<h3 align="left">🎓 I'm a 2nd-year BSU student and an aspiring backend developer. My primary focus is building web applications in Go.</h3>
+<h4 align="left">🎓 I'm a 2nd-year BSU student and an aspiring backend developer. My primary focus is building web applications in Go.</h4>
 
 <ul align="left">
-  <li><strong>🔭 Currently working on my project:</strong> <a href="https://github.com/ShopOnGO/ShopOnGO">ShopOnGO</a></li>
+  <li><strong>🔭 <span style="font-size: 18px; font-weight: bold; color: #f39c12;">Currently working</span> on my project:</strong> 
+    <a href="https://github.com/ShopOnGO/ShopOnGO">ShopOnGO</a>
+  </li>
   <li><strong>📚 Completed courses:</strong>
     <ul>
       <li><strong>Advanced Golang</strong> — <a href="https://purpleschool.ru/course/go-advanced" target="_blank">Purple School</a></li>
@@ -129,12 +131,6 @@
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" alt="kafka" width="40" height="40"/>
     </a>
-
-    <!-- Linux Icon -->
-    <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a> -->
-
     <!-- VS Code Icon -->
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" width="36" height="36" alt="VS Code" />

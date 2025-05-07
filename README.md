@@ -25,7 +25,7 @@
 <h4 align="left">🎓 I'm a 2nd-year BSU student and an aspiring backend developer. My primary focus is building web applications in Go.</h4>
 
 <ul align="left">
-  <li><strong>🔭 <span style="font-size: 18px; font-weight: bold; color: #f39c12;">Currently working</span> on my project:</strong> 
+  <li><strong>🔭 <span style="font-size: 22px; font-weight: bold;">Currently working</span> on my project:</strong> 
     <a href="https://github.com/ShopOnGO/ShopOnGO">ShopOnGO</a>
   </li>
   <li><strong>📚 Completed courses:</strong>
@@ -71,7 +71,7 @@
 <div align="left">
     <!-- Gin Icon -->
     <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gin/gin-original-wordmark.svg" width="36" height="36" alt="Gin" />
+        <img src="https://avatars.githubusercontent.com/u/7897204?s=200&v=4" width="36" height="36" alt="Gin" />
     </a>
     <!-- Django Icon -->
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -139,27 +139,6 @@
 
 ###
 
-<!-- <div width="100%" align="center">
-  <a href="https://github.com/LordVillain/Complex-tic-tac-toe" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LordVillain&repo=Complex-tic-tac-      
-    toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/LordVillain/Project_FiLLWords" align="right"><img align="right"   
-    width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LordVillain&repo=Project_FiLLWords&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
-  </a>
-</div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-  <a href="https://github.com/LordVillain/Calculator" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/? 
-      username=LordVillain&repo=Calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div> -->
-
-###
-
 <h3 align="left">🔥  My statistic:</h3>
 
 ###
@@ -171,7 +150,11 @@
 
 ## Организации
 
-[![ShopOnGO](https://avatars.githubusercontent.com/u/201571873?s=400&u=a52bf03aece69b1265a2a196f903d612220c51f6&v=4)](https://github.com/ShopOnGO)
+<div align="left">
+  <a href="https://github.com/ShopOnGO">
+    <img src="https://avatars.githubusercontent.com/u/201571873?s=400&u=a52bf03aece69b1265a2a196f903d612220c51f6&v=4" width="80" alt="ShopOnGO" />
+  </a>
+</div>
 
 </div>
 

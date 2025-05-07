@@ -71,7 +71,7 @@
 <div align="left">
     <!-- Gin Icon -->
     <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/7897204?s=200&v=4" width="36" height="36" alt="Gin" />
+        <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="36" height="36" alt="Gin" />
     </a>
     <!-- Django Icon -->
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -152,7 +152,7 @@
 
 <div align="left">
   <a href="https://github.com/ShopOnGO">
-    <img src="https://avatars.githubusercontent.com/u/201571873?s=400&u=a52bf03aece69b1265a2a196f903d612220c51f6&v=4" width="80" alt="ShopOnGO" />
+    <img src="https://avatars.githubusercontent.com/u/201571873?s=400&u=a52bf03aece69b1265a2a196f903d612220c51f6&v=4" width="200" alt="ShopOnGO" />
   </a>
 </div>
 

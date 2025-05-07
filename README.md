@@ -22,24 +22,20 @@
 
 ###
 
-<p align="left">I'm a 2nd-year BSU student and an aspiring backend developer. My primary focus is building web applications on Go.
-<br>- 🔭 Currently working on my project on [ShopOnGO](https://github.com/ShopOnGO/ShopOnGO)
-<br>- 📚 Completed courses:
-<ul>
-  <li>
-    <strong>Advanced Golang</strong> —
-    <a href="https://purpleschool.ru/course/go-advanced" target="_blank">Purple School</a>
-  </li>
-  <li>
-    <strong>Development of Web Applications on Go</strong> —
-    <a href="https://www.udemy.com/course/golang-ninja/?ysclid=m7jc8ft8p1566106084&couponCode=ST4MT240225A" target="_blank">Udemy</a>
-  </li>
-</ul>
-<br>- ⚡ Participated in ICPC
-<!-- <br>- 📄 Know about my experiences [resume link](resume link) -->
-</p>
+<blockquote>
+  <p align="left">
+    <strong>🎓 I'm a 2nd-year BSU student and an aspiring backend developer. My primary focus is building web applications in Go.</strong>
+  </p>
+</blockquote>
+
+- 🔭 Currently working on my project on [ShopOnGO](https://github.com/ShopOnGO/ShopOnGO)
+- 📚 Completed courses:
+  - **Advanced Golang** — [Purple School](https://purpleschool.ru/course/go-advanced)
+  - **Development of Web Applications in Go** — [Udemy](https://www.udemy.com/course/golang-ninja/)
+- ⚡ Participated in ICPC
 
 ###
+
 
 <h3 align="left">Languages:</h3>
 

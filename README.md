@@ -135,6 +135,38 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" width="36" height="36" alt="VS Code" />
     </a>
+    <!-- REST API Icon -->
+    <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/api-settings.png" width="36" height="36" alt="REST API" />
+    </a>
+    <!-- gRPC Icon -->
+    <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" width="36" height="36" alt="gRPC" />
+    </a>
+    <!-- net/http Icon -->
+    <a href="https://pkg.go.dev/net/http" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/golang.png" width="36" height="36" alt="Go net/http" />
+    </a>
+    <!-- Makefile Icon -->
+    <a href="https://www.gnu.org/software/make/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/ios-filled/50/000000/makefile.png" width="36" height="36" alt="Makefile" />
+    </a>
+    <!-- Nginx Icon -->
+    <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" />
+    </a>
+    <!-- Swagger Icon -->
+    <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="36" height="36" alt="Swagger" />
+    </a>
+    <!-- JSON Icon -->
+    <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/json-web-token.png" width="36" height="36" alt="JSON" />
+    </a>
+    <!-- JWT Icon -->
+    <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/color/48/000000/json-web-token.png" width="36" height="36" alt="JWT" />
+    </a>
 <div>
 
 ###

@@ -131,17 +131,9 @@
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" alt="kafka" width="40" height="40"/>
     </a>
-    <!-- REST API Icon -->
-    <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/api-settings.png" width="36" height="36" alt="REST API" />
-    </a>
-    <!-- gRPC Icon -->
-    <a href="https://grpc.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" width="36" height="36" alt="gRPC" />
-    </a>
     <!-- Nginx Icon -->
     <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nginx.svg" width="36" height="36" alt="Nginx" />
     </a>
     <!-- Swagger Icon -->
     <a href="https://swagger.io/" target="_blank" rel="noreferrer">

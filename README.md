@@ -128,12 +128,12 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
     </a>
     <!-- Kafka Icon -->
-    <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-        <img src="https://img.icons8.com/color/48/000000/nginx.png" width="36" height="36" alt="Nginx" />
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" alt="kafka" width="40" height="40"/>
     </a>
     <!-- Nginx Icon -->
     <a href="https://nginx.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nginx.svg" width="36" height="36" alt="Nginx" />
+        <img src="https://img.icons8.com/color/48/000000/nginx.png" width="36" height="36" alt="Nginx" />
     </a>
     <!-- Swagger Icon -->
     <a href="https://swagger.io/" target="_blank" rel="noreferrer">

@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">🎓 I'm a 2nd-year BSU student and an aspiring backend developer. My primary focus is building web applications in Go.</h4>
+<h4 align="left">🎓 I'm a 3nd-year BSU student and an aspiring backend developer. My primary focus is building web applications in Go.</h4>
 
 <ul align="left">
   <li><strong>🔭 <span style="font-size: 22px; font-weight: bold;">Currently working</span> on my project:</strong> 

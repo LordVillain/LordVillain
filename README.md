@@ -26,7 +26,7 @@
 
 <ul align="left">
   <li><strong>🔭 <span style="font-size: 22px; font-weight: bold;">Currently working</span> on my project:</strong> 
-    <a href="https://github.com/ShopOnGO/ShopOnGO">ShopOnGO</a>
+    <a href="https://github.com/ShopOnGO">Tailornado</a>
   </li>
   <li><strong>📚 Completed courses:</strong>
     <ul>
